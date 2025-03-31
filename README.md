@@ -52,7 +52,7 @@ If a conflict is detected, the system provides the following options in the term
   
 When you press "Enter":
 - The AI system will use the **A* (A-star) algorithm** to suggest an optimal, **conflict-free path** that avoids collisions with simulated drones.
-![Screenshot from 2025-03-31 22-34-32](https://github.com/user-attachments/assets/44f7a35b-ecc0-4fa8-a15c-49a0b4338f49)
+![Screenshot from 2025-03-31 22-32-54](https://github.com/user-attachments/assets/b29aaa6e-4863-408e-bec7-6df5bbd2e23a)
 
 ### 3. **No Conflict Scenario**
 
@@ -60,7 +60,7 @@ If the system detects that there is no intersection or conflict between the prim
 - **"No conflict point found, safe to proceed."**
 
 In this case, the drones can continue their respective paths without any modifications.
-![Screenshot from 2025-03-31 22-32-54](https://github.com/user-attachments/assets/09a26f9a-3ab5-4327-87dd-bd8b60bb098d)
+![Screenshot from 2025-03-31 22-34-32](https://github.com/user-attachments/assets/edfbbd89-180a-491b-bd57-d906e4534621)
 
 ---
 
